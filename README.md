@@ -11,7 +11,6 @@ This project utilizes the Scannet Dataset for 3D object detection.
 Visualizations:
 
 Below are samples of the point clouds visualizations using Scannet Scenes:
-![inference_preview_in_room](https://github.com/user-attachments/assets/ba744e2a-8242-4010-bb42-1a468e2fc4cf)
 <img src="https://github.com/user-attachments/assets/ba744e2a-8242-4010-bb42-1a468e2fc4cf" width="300">
 
 
