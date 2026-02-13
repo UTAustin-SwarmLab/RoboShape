@@ -18,6 +18,12 @@ Below are samples of the point clouds visualizations obtained by running sonata_
   <br>
   <p><i>Figure 1: Point cloud visualization of a ScanNet scene</i></p>
 </div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/44f7ffd1-a23a-4a1b-b55e-fe407375af32" width="40%" />
+  <br>
+  <p><i>Figure 2: Point cloud visualization of a ScanNet scene</i></p>
+</div>
+
 
 
 
