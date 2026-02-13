@@ -13,6 +13,23 @@ This project utilizes the Scannet Dataset for 3D object detection.
 Visualizations:
 
 Below are samples of the point clouds visualizations obtained by running sonata_ınference.py using Scannet Scenes:
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a893dfcc-2025-4960-b2ca-144c7d5328d6" width="40%" />
+  <br>
+  <p><i>Figure 1: Point cloud visualization of a ScanNet scene</i></p>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6158422e-14df-4587-b4e1-2717d3293819" width="40%" />
+  <br>
+  <p><i>Figure 1: Point cloud visualization of a ScanNet scene</i></p>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0ea08317-72a0-4a07-90b9-d1e4342fdc60" width="40%" />
+  <br>
+  <p><i>Figure 1: Point cloud visualization of a ScanNet scene</i></p>
+</div>
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ba744e2a-8242-4010-bb42-1a468e2fc4cf" width="40%" />
   <br>
