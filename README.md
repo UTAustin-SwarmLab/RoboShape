@@ -5,7 +5,7 @@ Information Theoretical Pipeline for Privacy Preserving Intelligent Robotics Sen
 We used PTv3 pre-trained model Sonata as feature extractor in order to use point cloud modalities.
 You can find the model details here: https://github.com/facebookresearch/sonata
 
-At the end of the feature extractor encoder layers, model supplies points with 1232 dimensions. 
+At the end of the feature extractor encoder layers, model supplies points with 512 dimensions. 
 
 # Dataset: Scannet
 This project utilizes the Scannet Dataset for 3D object detection. 
