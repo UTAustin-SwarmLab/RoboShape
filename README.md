@@ -54,7 +54,10 @@ The furniture distributions over scenes , and the comparison of ground-truth lab
 <img width="2700" height="750" alt="inference_vs_gt_match_ratio" src="https://github.com/user-attachments/assets/f58be857-a279-4ef5-96ab-5d7c05b0e687" />
 </div>
 
-
+Distribution of numbers of points over all scenes as follows:
+<div align="center">
+<img width="1786" height="885" alt="point_count_histogram" src="https://github.com/user-attachments/assets/fefc0def-5249-4717-8467-33776621b189" />
+</div>
 
 Download & Setup:
 
