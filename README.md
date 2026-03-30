@@ -46,7 +46,7 @@ Below are samples of the point clouds visualizations obtained by running sonata_
 
 The furniture distributions over scenes , and the comparison of ground-truth lables and the segmentation of the Sonata are as follows.
 
-<div align="center>
+<div align="center">
 <img width="2700" height="1050" alt="furniture_presence_histogram" src="https://github.com/user-attachments/assets/efeba8fd-b521-4685-aee7-d2021b853d30" />
 </div>
 
