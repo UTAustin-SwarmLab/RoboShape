@@ -57,10 +57,12 @@ The furniture distributions over scenes , and the comparison of ground-truth lab
 Distribution of numbers of points over all scenes as follows:
 
 <div align ="center">
-<img width="1030" height="639" alt="image" src="https://github.com/user-attachments/assets/fe78747e-5483-43a6-823d-bc56877f7b19" />
+<img width="1666" height="1038" alt="point_count_histogram" src="https://github.com/user-attachments/assets/5d3e385d-8d32-491c-9bb9-16ceb51868db" />
+
 </div>
 <div align ="center">
-<img width="2233" height="447" alt="image" src="https://github.com/user-attachments/assets/9da0aa0a-9535-4190-802c-56e6bd1a266b" />
+<img width="2233" height="447" alt="scene_type_colormap" src="https://github.com/user-attachments/assets/2ecf4234-890e-4ab3-a794-dc66798220a6" />
+
 
 </div>
 
