@@ -64,9 +64,13 @@ Distribution of numbers of points over all scenes as follows:
 </div>
 <div align ="center">
 <img width="2233" height="447" alt="scene_type_colormap" src="https://github.com/user-attachments/assets/2ecf4234-890e-4ab3-a794-dc66798220a6" />
-
-
 </div>
+
+Distributions of furnitures over scene types :
+<div align= "center">
+<img width="3578" height="1777" alt="scene_type_furniture_distribution" src="https://github.com/user-attachments/assets/88d72703-0852-4d96-b030-11296c92f7bc" />
+</div>
+
 
 Download & Setup:
 
