@@ -72,7 +72,7 @@ Distributions of furnitures over scene types :
 </div>
 
 
-Sonata Encoder emerges different points during downsampling the raw points in the encoding process, find the number of different furniture lables for each voxel for scannet dataset below:
+Sonata Encoder unites different points during downsampling the raw points in the encoding process, find the number of different furniture lables for each voxel for scannet dataset below:
 
 <div align= "center">
 <img width="1786" height="884" alt="voxel_label_diversity" src="https://github.com/user-attachments/assets/97fe11ba-ae70-4974-8abb-7ceece63c951" />
