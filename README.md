@@ -82,4 +82,8 @@ Sonata Encoder unites different points during downsampling the raw points in the
 Download & Setup:
 
 Please request access to the ScanNet dataset and download it from the official ScanNet Benchmark: http://www.scan-net.org/.
+# Training:
+<div align= "center">
+<img width="2117" height="865" alt="mi_curves_epoch0_19" src="https://github.com/user-attachments/assets/52dd6d94-ab4f-4864-8b62-67eeaf746a21" />
+</div>
 
