@@ -87,3 +87,14 @@ Please request access to the ScanNet dataset and download it from the official S
 <img width="2117" height="865" alt="mi_curves_epoch0_19" src="https://github.com/user-attachments/assets/52dd6d94-ab4f-4864-8b62-67eeaf746a21" />
 </div>
 
+# Results: 
+4 different classifiers trained in order to show the success of roboshape embeddings at hiding private attributes. 2 of them trained in order to classify sonata embeddings according to furniture type (public label) and scenetype ( private label), and the other 2 of them in order to classify roboshape embeddings according to public and private labels. You can find the Train , test losses and classifying accuracies below.
+<div align= "center">
+<img width="1800" height="600" alt="loss_public" src="https://github.com/user-attachments/assets/f751736c-53b8-4292-9711-1f7ab6c4f896" />
+
+</div>
+<div align= "center">
+<img width="1800" height="600" alt="loss_private" src="https://github.com/user-attachments/assets/9f057cca-07b4-47df-afd6-8b03cd31880c" />
+
+
+</div>
