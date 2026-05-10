@@ -102,3 +102,11 @@ Loss curves of classifiers for noisy original embeddings:
 <img width="1800" height="600" alt="loss_noisy" src="https://github.com/user-attachments/assets/9ba05ddb-1861-4084-b3ce-45f9f0a97948" />
 
 </div>
+
+Loss curves of classifiers for randomly initialized encoder outputs:
+
+<div align= "center">
+<img width="1800" height="600" alt="loss_random_encoder" src="https://github.com/user-attachments/assets/43f6d727-0b18-48fc-b06c-d3984457b6e1" />
+
+
+</div>
