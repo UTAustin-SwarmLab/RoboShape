@@ -95,6 +95,10 @@ Please request access to the ScanNet dataset and download it from the official S
 </div>
 <div align= "center">
 <img width="1800" height="600" alt="loss_private" src="https://github.com/user-attachments/assets/9f057cca-07b4-47df-afd6-8b03cd31880c" />
+</div>
 
+Loss curves of classifiers for noisy original embeddings:
+<div align= "center">
+<img width="1800" height="600" alt="loss_noisy" src="https://github.com/user-attachments/assets/9ba05ddb-1861-4084-b3ce-45f9f0a97948" />
 
 </div>
