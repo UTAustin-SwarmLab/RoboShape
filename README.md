@@ -83,9 +83,24 @@ Download & Setup:
 
 Please request access to the ScanNet dataset and download it from the official ScanNet Benchmark: http://www.scan-net.org/.
 # Training:
+
+# Scannet
 <div align= "center">
 <img width="2117" height="865" alt="mi_curves_epoch0_19" src="https://github.com/user-attachments/assets/52dd6d94-ab4f-4864-8b62-67eeaf746a21" />
 </div>
+
+# Matterport3D
+<div align= "center>
+<img width="1350" height="900" alt="roboshape_train_val_loss_matterport" src="https://github.com/user-attachments/assets/198e7353-caab-4b2d-be2e-542814ecb0ee" />
+</div>
+
+<div align= "center>
+<img width="2117" height="865" alt="RoboShape_training_curves_matterport3D" src="https://github.com/user-attachments/assets/d7938783-c703-4773-bfad-2235bbea5a78" />
+
+</div>
+
+
+
 
 # Results: 
 # Scannet 
@@ -111,7 +126,43 @@ Loss curves of classifiers for randomly initialized encoder outputs:
 
 <div align= "center">
 <img width="1800" height="600" alt="random_encoder_classifier_loss_scannet" src="https://github.com/user-attachments/assets/9354ce5d-26fd-4f7a-adca-d2b6a7dc6a21" />
+</div>
 
+
+Auroc results for 4 different baselines. 
+<div align= "center">
+  <img width="1272" height="532" alt="auroc_scannet" src="https://github.com/user-attachments/assets/d2adcc0f-c2f9-430b-b107-ad7260e30974" />
+</div>
+
+# Matterport
+4 different classifiers trained in order to show the success of roboshape embeddings at hiding private attributes. 2 of them trained in order to classify sonata embeddings according to furniture type (public label) and scenetype ( private label), and the other 2 of them in order to classify roboshape embeddings according to public and private labels. You can find the Train , test losses and classifying accuracies below.
+<div align= "center">
+<img width="2100" height="600" alt="public_classifier_loss_matterport3D" src="https://github.com/user-attachments/assets/b3137b0e-47b5-4733-84be-c1d789ecc0c3" />
+
+</div>
+
+<div align= "center">
+
+<img width="2100" height="600" alt="private_classifier_loss_matterport3D" src="https://github.com/user-attachments/assets/03979693-1fb6-473f-ace3-3a64570e629e" />
+
+</div>
+
+Loss curves of classifiers for noisy original embeddings:
+<div align= "center">
+<img width="1800" height="600" alt="noisy_classifer_loss_matterport3D" src="https://github.com/user-attachments/assets/a225eb25-c3f0-4802-899b-8601bdc1dd4e" />
+
+
+</div>
+
+Loss curves of classifiers for randomly initialized encoder outputs:
+
+<div align= "center">
+<img width="1800" height="600" alt="random_encoder_loss_matterport3D" src="https://github.com/user-attachments/assets/5397eb19-caaa-434a-9e29-a2547a3ca086" />
+
+</div>
+Auroc results for 4 different baselines:
+<div align= "center">
+<img width="1800" height="750" alt="auroc_matterport3D" src="https://github.com/user-attachments/assets/902d6f92-0d66-4732-8a04-f3cc1359f437" />
 
 
 </div>
