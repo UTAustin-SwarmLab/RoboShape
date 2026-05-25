@@ -92,13 +92,11 @@ Please request access to the ScanNet dataset and download it from the official S
 # Matterport3D
 
 <div align= "center">
-<img width="2117" height="865" alt="mi_curves_epoch0_19" src="https://github.com/user-attachments/assets/52dd6d94-ab4f-4864-8b62-67eeaf746a21" />
-</div>
+<img width="1350" height="900" alt="roboshape_train_val_loss_matterport" src="https://github.com/user-attachments/assets/f036ed4c-6c7c-4d2b-aab9-b13ebdb0fd25" />
 
 </div>
-
-<div align= "center>
-<img width="2117" height="865" alt="RoboShape_training_curves_matterport3D" src="https://github.com/user-attachments/assets/d7938783-c703-4773-bfad-2235bbea5a78" />
+<div align= "center">
+<img width="2117" height="865" alt="RoboShape_training_curves_matterport3D" src="https://github.com/user-attachments/assets/dc626eb4-8d68-4c33-a8d5-903341f43fc8" />
 
 </div>
 
