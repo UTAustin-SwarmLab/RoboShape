@@ -88,25 +88,30 @@ Please request access to the ScanNet dataset and download it from the official S
 </div>
 
 # Results: 
+# Scannet 
 4 different classifiers trained in order to show the success of roboshape embeddings at hiding private attributes. 2 of them trained in order to classify sonata embeddings according to furniture type (public label) and scenetype ( private label), and the other 2 of them in order to classify roboshape embeddings according to public and private labels. You can find the Train , test losses and classifying accuracies below.
 <div align= "center">
-<img width="1800" height="600" alt="loss_public" src="https://github.com/user-attachments/assets/f751736c-53b8-4292-9711-1f7ab6c4f896" />
-
+<img width="1271" height="359" alt="public_classsifiers_loss_scannet" src="https://github.com/user-attachments/assets/b3281bfa-3fd2-4f51-9f1a-a8f268dbb3e2" />
 </div>
+
 <div align= "center">
-<img width="1800" height="600" alt="loss_private" src="https://github.com/user-attachments/assets/9f057cca-07b4-47df-afd6-8b03cd31880c" />
+
+<img width="1275" height="366" alt="private_classifiers_loss_scannet" src="https://github.com/user-attachments/assets/c4fcefba-f310-4591-b749-b544caaf4095" />
+
 </div>
 
 Loss curves of classifiers for noisy original embeddings:
 <div align= "center">
-<img width="1800" height="600" alt="loss_noisy" src="https://github.com/user-attachments/assets/9ba05ddb-1861-4084-b3ce-45f9f0a97948" />
+<img width="1800" height="600" alt="noisy_classifier_loss_scannet" src="https://github.com/user-attachments/assets/38de6cf0-c7cc-4915-bec2-3213fa95be79" />
+
 
 </div>
 
 Loss curves of classifiers for randomly initialized encoder outputs:
 
 <div align= "center">
-<img width="1800" height="600" alt="loss_random_encoder" src="https://github.com/user-attachments/assets/43f6d727-0b18-48fc-b06c-d3984457b6e1" />
+<img width="1800" height="600" alt="random_encoder_classifier_loss_scannet" src="https://github.com/user-attachments/assets/9354ce5d-26fd-4f7a-adca-d2b6a7dc6a21" />
+
 
 
 </div>
