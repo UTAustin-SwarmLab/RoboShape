@@ -101,6 +101,18 @@ Please request access to the ScanNet dataset and download it from the official S
 
 </div>
 
+# ARKitScenes
+
+<div align= "center">
+<img width="1350" height="900" alt="train_val_loss_arkitscenes" src="https://github.com/user-attachments/assets/8482bbaf-2de8-4d26-9ad9-20d765c62da0" />
+
+</div>
+<div align= "center">
+<img width="2117" height="865" alt="training_curves_arkitscenes_subset2" src="https://github.com/user-attachments/assets/10f8b029-0f8c-4799-864a-a0333a224cbf" />
+
+
+
+</div>
 
 
 
@@ -166,5 +178,41 @@ Auroc results for 4 different baselines:
 <div align= "center">
 <img width="1800" height="750" alt="auroc_matterport3D" src="https://github.com/user-attachments/assets/902d6f92-0d66-4732-8a04-f3cc1359f437" />
 
+
+</div>
+
+# ARKitScenes
+
+4 different classifiers trained in order to show the success of roboshape embeddings at hiding private attributes. 2 of them trained in order to classify sonata embeddings according to furniture type (public label) and scenetype ( private label), and the other 2 of them in order to classify roboshape embeddings according to public and private labels. You can find the Train , test losses and classifying accuracies below.
+<div align= "center">
+<img width="2100" height="600" alt="loss_public_arkitscenes_subset2" src="https://github.com/user-attachments/assets/9d55e55a-9e9e-46ba-9a42-e24512d59cfc" />
+
+</div>
+
+<div align= "center">
+
+<img width="2100" height="600" alt="loss_private_arkitscenes_subset2" src="https://github.com/user-attachments/assets/7a815312-50c1-41c6-827e-d76d44ef4b89" />
+
+
+</div>
+
+Loss curves of classifiers for noisy original embeddings:
+<div align= "center">
+<img width="1800" height="600" alt="loss_noisy_arkitscenes_subset2" src="https://github.com/user-attachments/assets/fee000c9-20ae-4766-8a2a-1032c07bc59b" />
+
+
+
+</div>
+
+Loss curves of classifiers for randomly initialized encoder outputs:
+
+<div align= "center">
+<img width="1800" height="600" alt="loss_random_encoder_arkitscenes_subset2" src="https://github.com/user-attachments/assets/cb55d23d-6edb-4ceb-aceb-a16cad0d793a" />
+
+</div>
+
+
+Auroc results for 4 different baselines. 
+<div align= "center">
 
 </div>
