@@ -96,7 +96,8 @@ Please request access to the ScanNet dataset and download it from the official S
 
 </div>
 <div align= "center">
-<img width="2117" height="865" alt="RoboShape_training_curves_matterport3D" src="https://github.com/user-attachments/assets/dc626eb4-8d68-4c33-a8d5-903341f43fc8" />
+  <img width="2117" height="865" alt="RoboShape_training_curves_matterport3D" src="https://github.com/user-attachments/assets/81d76029-cb8c-45e1-8d0d-34be92681d09" />
+
 
 </div>
 
