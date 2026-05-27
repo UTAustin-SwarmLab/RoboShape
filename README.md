@@ -214,5 +214,6 @@ Loss curves of classifiers for randomly initialized encoder outputs:
 
 Auroc results for 4 different baselines. 
 <div align= "center">
+<img width="1800" height="750" alt="auroc_curves_arkitscenes_subset2" src="https://github.com/user-attachments/assets/b210a212-0f60-4a3f-aff9-33aaa2580754" />
 
 </div>
